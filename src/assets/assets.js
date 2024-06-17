@@ -41,6 +41,7 @@ import twitter_icon from './twitter_icon.png'
 import app_store from './app_store.png'
 import play_store from './play_store.png'
 import cross_icon from './cross_icon.png'
+import header_img from './header_img.png'
 
 
 
@@ -101,7 +102,8 @@ linkedin_icon,
 twitter_icon,
 app_store,
 play_store,
-cross_icon
+cross_icon,
+header_img
 
 }
 
